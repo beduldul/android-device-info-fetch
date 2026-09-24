@@ -4,7 +4,7 @@ A fastfetch-style command-line diagnostic tool specifically designed for Android
 
 ---
 
-## 🛠 Features in v1.1.0
+## Features in v1.1.0
 
 - **Hardware & OS Info**: Device model, SoC platform, Android release, and SDK version.
 - **Kernel Metrics**: Linux kernel release string, architecture, and SELinux enforcement status.
@@ -13,7 +13,7 @@ A fastfetch-style command-line diagnostic tool specifically designed for Android
 
 ---
 
-## 💻 Usage
+## Usage
 
 ```bash
 ./neofetch_android.sh
@@ -21,5 +21,5 @@ A fastfetch-style command-line diagnostic tool specifically designed for Android
 
 ---
 
-## 📄 License
+## License
 MIT License
