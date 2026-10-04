@@ -1,8 +1,8 @@
 #!/system/bin/sh
+# shellcheck disable=SC3037  # Android mksh/BusyBox echo supports -e
 # Android Device Information Diagnostic Utility v1.1.0
 
 # ANSI Colors
-RED='\033[0;31m'
 GREEN='\033[0;32m'
 YELLOW='\033[0;33m'
 BLUE='\033[0;34m'
