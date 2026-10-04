@@ -1,3 +1,4 @@
+[![shellcheck](https://github.com/beduldul/android-device-info-fetch/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/beduldul/android-device-info-fetch/actions/workflows/shellcheck.yml)
 # Android Device Information Diagnostic Utility v1.1.0
 
 A fastfetch-style command-line diagnostic tool specifically designed for Android terminal environments (Termux / ADB Shell).
